@@ -1,16 +1,19 @@
-## Hi there 👋
+##  Hie, I’m Harish👋
 
-<!--
-**harishhchavan/harishhchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Developer working as a **Scala Developer**, with a strong backend foundation in **Java, SQL, and Spring**.
 
-Here are some ideas to get you started:
+I like building things step by step, improving daily, and keeping my learning practical and honest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working with Scala
+- Strong fundamentals in Java, SQL, and Spring
+- Actively learning Spring Boot & Microservices
+- Practicing DSA to sharpen problem-solving
+- Calm, disciplined, and consistent in my approach
+
+### Tech I Work With
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
